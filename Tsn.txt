@@ -1,0 +1,5 @@
+set foldmethod=marker
+set foldmarker=«,»
+set foldlevelstart=0
+nmap <enter> za
+  navigator.hardwareConcurrency
