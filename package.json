@@ -1,0 +1,19 @@
+{
+  "name": "sifrtemertesf",
+  "version": "1.0.0",
+  "description": "تطبيق تشفير مخصص لترمكس",
+  "main": "index.js",
+  "bin": {
+    "sifrtemertesf": "./index.js"
+  },
+  "keywords": [
+    "termux",
+    "python",
+    "sifrtemertesf"
+  ],
+  "author": "ydisddjhdhd-dev",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}
