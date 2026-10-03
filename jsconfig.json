@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES6"
+  },
+  "exclude": ["node_modules"]
+}
+// On explicit save, run fixAll source action. On auto save (window or focus change), run organizeImports source action.
+"editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "always",
+}
+"[javascript]": {
+    "editor.showUnused":  false
+},
+"[javascriptreact]": {
+    "editor.showUnused":  false
+},
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  }
+  
