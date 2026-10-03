@@ -1,0 +1,23 @@
+cloahyoana.volatile
+char16_t
+goto
+gtau{
+colorg:remainderl;
+}
+{
+link:tuana
+}
+wik
+.org
+tuka{
+color:
+  "name": "my-custom-browser",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  }
+
+}
+lldiv
+link:as"Google.oua"
