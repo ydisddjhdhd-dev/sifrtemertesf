@@ -9,7 +9,7 @@
 ### 1. تحميل المستودع والدخول إليه:
 ```bash
 pkg install git -y
-git clone https://github.com
+git clone https://github.com/ydisddjhdhd-dev/sifrtemer
 cd sifrtemertesf
 ```
 
