@@ -1,34 +1,34 @@
-# 📱 مشروع تشغيل الأدوات والواجهة الرسومية على Termux
+# 📱 Project: Running Tools and GUI on Termux
 
-مرحباً بك! هذا المستودع يحتوي على مجموعة أدوات مبرمجة بلغات مختلفة (C, Go, Node.js). لتسهيل تشغيل جميع هذه الملفات دفعة واحدة وتفعيل واجهة رسومية (GUI) داخل تطبيق Termux، يرجى اتباع الخطوات البسيطة التالية.
+Welcome! This repository contains a collection of tools programmed in various languages ​​(C, Go, Node.js). To easily run all these files simultaneously and launch a Graphical User Interface (GUI) within the Termux app, please follow the simple steps below.
 
-## 🚀 طريقة التثبيت والتشغيل في دقيقة واحدة
+## 🚀 Installation and Launch in One Minute
 
-افتح تطبيق **Termux** ثم انسخ الصق الأوامر التالية بالترتيب:
+Open the **Termux** app, then copy and paste the following commands in order:
 
-### 1. تحميل المستودع والدخول إليه:
+### 1. Download and enter the repository:
 ```bash
 pkg install git -y
 git clone https://github.com/ydisddjhdhd-dev/sifrtemer
 cd sifrtemertesf
 ```
 
-### 2. إعطاء صلاحية التشغيل للسكربت الموحد:
+### 2. Grant execution permissions to the unified script:
 ```bash
 chmod +x run_all.sh
 ```
 
-### 3. بدء التشغيل التلقائي:
+### 3. Start automatic execution:
 ```bash
 ./run_all.sh
 ```
 
 ---
 
-## 🖥️ كيف تدخل إلى الواجهة الرسومية (GUI)؟
+## 🖥️ How to access the Graphical User Interface (GUI)?
 
-1. بعد انتهاء السكربت، سيطلب منك تعيين **كلمة مرور** (إذا كانت هذه أول مرة تشغل فيها VNC).
-2. قم بتحميل تطبيق **VNC Viewer** من متجر التطبيقات على هاتفك المحمول.
-3. افتح التطبيق وأضف اتصالاً جديداً بالعنوان التالي:
-   `localhost:1` أو `127.0.0.1:5901`
-4. أدخل كلمة المرور التي اخترتها، وستفتح لك واجهة **XFCE الرسومية** المكتملة وبداخلها أدواتك البرمجية جاهزة للعمل!    <img alt="Static Badge" src="https://img.shields.io/badge/Our-operating-system?link=Gjsk">
+1. Once the script finishes, you will be prompted to set a **password** (if this is your first time running VNC).
+2. Download the **VNC Viewer** app from your mobile phone's app store.
+3. Open the app and add a new connection using the following address:
+`localhost:1` or `127.0.0.1:5901`
+4. Enter the password you chose, and the full **XFCE GUI** will open, with your programming tools ready for use inside! <img alt="Static Badge" src="https://img.shields.io/badge/Our-operating-system?link=Gjsk">
