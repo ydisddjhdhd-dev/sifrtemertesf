@@ -31,4 +31,6 @@ chmod +x run_all.sh
 2. Download the **VNC Viewer** app from your mobile phone's app store.
 3. Open the app and add a new connection using the following address:
 `localhost:1` or `127.0.0.1:5901`
-4. Enter the password you chose, and the full **XFCE GUI** will open, with your programming tools ready for use inside! <img alt="Static Badge" src="https://img.shields.io/badge/Our-operating-system?link=Gjsk">
+4. Enter the password you chose, and the full **XFCE GUI** will open, with your programming tools ready for use inside!
+5. Donate to us from above and contribute to the project↑ 
+<img src="https://js.com/wp-content/uploads/2015/08/new.gif" alt="" />
